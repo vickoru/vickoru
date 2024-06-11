@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center"> Theoretical physicist turned into data scientist and machine learning specialist </h3>
 
-- 🌱 I currently (keep) learning **deep learning and MLOps.**
+- 🌱 I'm currently learning more **deep learning and MLOps.**
+- 🔭 I’m currently working on [drumbeatID](https://github.com/vickoru/drumbeatid-2.0)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
