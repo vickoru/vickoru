@@ -2,7 +2,8 @@
 <h3 align="center"> Theoretical physicist turned into data scientist and machine learning specialist </h3>
 
 - 🌱 I'm currently learning more **deep learning and MLOps.**
-- 🔭 I’m currently working on [drumbeatID](https://github.com/vickoru/drumbeatid-2.0)
+- 🔭 I’m currently working on [vorget-beta](https://github.com/vickoru/vorget-beta) which is an app to process data automatically via the generation of code using LLMs. This app is currently being develope as pre-startup phase of [vorget.ai](https://vorget.ai)
+- 🔭 My work on [drumbeatID](https://github.com/vickoru/drumbeatid-2.0) is currently paused. 
 
 
 <h3 align="left">Connect with me:</h3>
